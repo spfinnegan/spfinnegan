@@ -11,7 +11,7 @@
 - <b>Security Blue Team</b>
   - [Blue Team Level 1](https://www.credly.com/earner/earned/badge/8d408253-ba18-4e12-84ba-6ee1e7764bf8)
  - <b>ISC2</b>
-   - [ISC2 Certified in  Cybersecurity](https://www.credly.com/earner/earned/badge/ea073953-3ecf-4a2e-9f24-5fadef606ae8), [ISC2 SSCP](https://www.credly.com/earner/earned/badge/b872c812-8fe7-486f-93b7-566ecbaf93b6), [Associate of ISC2 (Cloud Security)](https://www.credly.com/earner/earned/badge/470942f1-7abb-4e52-9902-1ef8578c8586)
+   - [ISC2 SSCP](https://www.credly.com/earner/earned/badge/b872c812-8fe7-486f-93b7-566ecbaf93b6), [ISC2 Certified in Cybersecurity](https://www.credly.com/earner/earned/badge/ea073953-3ecf-4a2e-9f24-5fadef606ae8), [Associate of ISC2 (Cloud Security)](https://www.credly.com/earner/earned/badge/470942f1-7abb-4e52-9902-1ef8578c8586)
 - <b> Amazon Web Services</b>
   - [AWS Certified Cloud Practitioner](https://www.credly.com/earner/earned/badge/15e29291-4bf6-490c-abf8-663b044317ef), [AWS Certified Solutions Architect - Associate](https://www.credly.com/earner/earned/badge/9b4e8d28-ad9c-4b58-bda4-de4068b2011c) 
 
