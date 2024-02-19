@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sean! </h1> Hello there! I'm Sean, though you can call me Pat. Having transitioned from a career in law enforcement due to a work-related injury, I'm thrilled to embark on a new journey in the realm of IT. My primary focus is steering my path towards a role in cybersecurity. I invite you to explore the links below to get a glimpse of my past endeavors and ongoing projects. 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2> I am currently top 12% on TryHackMe and am working towards the SOC Level 1 path.
+<h2>👨‍💻 Cybersecurity Projects:</h2> I am currently top 9% on TryHackMe and am working towards the SOC Level 1 path.
 
 
 
