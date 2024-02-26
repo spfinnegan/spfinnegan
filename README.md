@@ -4,6 +4,8 @@
 I am currently top 9% on TryHackMe and am working towards the SOC Level 1 path.
 
   - [Active Directory Home Lab](https://github.com/spfinnegan/ActiveDirectoryLab/tree/main)
+  - [Nessus Vulnerability Scanner Lab](https://github.com/spfinnegan/NessusVulnerabilityScanner)
+ 
 
 
 <h2>Certifications:</h2>
